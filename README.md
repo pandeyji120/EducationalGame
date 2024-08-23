@@ -22,6 +22,7 @@ A basic flowchart for EducationalGame could look like this:
 
 **Contract Address**
 
+- **Network:** Edu-chain Testnet
 - **Contract Address**  0xb593229892903e7d252320e2967b34e7676429b1
 - ![image](https://github.com/user-attachments/assets/4f751e0a-200d-4a5a-9405-d639c1821b5e)
 
