@@ -1,6 +1,7 @@
  EducationalGame: Learn and Play on the Blockchain
 
  ![image](https://github.com/user-attachments/assets/ed9d3e65-5288-45fb-8298-69448378c791)
+ 
 **Vision**
 
 EducationalGame is a blockchain-based platform designed to revolutionize learning by making it interactive, engaging, and rewarding.  Students can participate in educational games, track their progress through verifiable scores stored on the blockchain, and even earn rewards for their achievements.
